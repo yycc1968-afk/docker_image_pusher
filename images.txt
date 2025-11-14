@@ -6,6 +6,8 @@ nginx
 #xhofe/alist:latest
 # Alpine 基础镜像
 python:alpine3.19
-align/align:latest
+
+# ALIGN 自动模拟版图环境
+srampr/align_template:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
